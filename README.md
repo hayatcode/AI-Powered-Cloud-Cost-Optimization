@@ -88,4 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for using PyCostOptiCap! We hope this project helps you optimize your infrastructure costs effectively.
+Thank you for using hayatcode! We hope this project helps you optimize your infrastructure costs effectively.
