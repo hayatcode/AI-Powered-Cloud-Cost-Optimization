@@ -1,4 +1,4 @@
-# PyCostOptiCap: Infrastructure Cloud Cost Optimization Model
+# hayatcode: Infrastructure Cloud Cost Optimization Model
 
 Disclaimer: Only including coding files without data for security reasons
 
